@@ -2,5 +2,5 @@
   "title": "OpenSCAD + JustinSDK Feature Plate",
   "entryPath": "/index.scad",
   "linkedLibraries": ["justinsdk"],
-  "features": ["openscad", "justinsdk", "package-imports", "index-scad"]
+  "features": ["openscad", "justinsdk", "package-imports", "index-scad", "widgets"]
 }
